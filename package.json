@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "NodeJS start",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Alisherdev",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "nodemon": "^3.0.1"
+  }
+}
